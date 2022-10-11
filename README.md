@@ -1,7 +1,7 @@
 # CCSED-2025-BACKEND
 # CCSED-2025-BACKEND
 
-This roadmap from CCSED 2025-helpers (Back-end).
+This roadmap from CCSED 2025-helpers (Back-End).
 **Just_Helpers**.
 
 ### Basics of HTML/CSS 
