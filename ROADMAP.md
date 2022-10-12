@@ -16,7 +16,7 @@ This roadmap from CCSED 2025-helpers (Back-End).
 ###  JavaScript
 | Resource Name                                                      | Resource                     |
 |--------------------------------------------------------------------|------------------------------|
-| W3SCHOOL tutorial  from [ first -> (JavaScript Break and Continue)] then JS Functions|https://www.w3schools.com/js/default.asp|
+| W3SCHOOL tutorial  from [ The beginning -> (JavaScript Break and Continue)] then JS Functions|https://www.w3schools.com/js/default.asp|
 | Elzero Javascript course 2021 (Arabic) [from video #086 to  #101]  | https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv                 |
 | Learn JavaScript for Beginners (English)                           |https://youtu.be/PkZNo7MFNFg                  |
 |JavaScript DOM Course      (English)                            |https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s|
